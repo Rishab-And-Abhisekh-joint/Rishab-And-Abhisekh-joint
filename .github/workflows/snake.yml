@@ -1,25 +1,23 @@
-# This file goes in: .github/workflows/snake.yml
-# 
-# HOW TO SET UP:
-# 1. In your profile repo (Rishab-And-Abhisekh-joint), create folder: .github/workflows/
-# 2. Create file named: snake.yml
-# 3. Paste this entire content
-# 4. Go to repo Settings → Actions → General → Workflow permissions → Select "Read and write permissions"
-# 5. Go to Actions tab → Click "Generate Snake" → Click "Run workflow"
-# 6. Wait ~1 minute for it to complete
-# 7. The snake will now appear on your profile!
+# ================================================
+# FIXED SNAKE WORKFLOW - NO GIF (fixes canvas error)
+# ================================================
+# File location: .github/workflows/snake.yml
+#
+# SETUP STEPS:
+# 1. Create folder .github/workflows/ in your repo
+# 2. Create file snake.yml inside it
+# 3. Paste this content
+# 4. Go to Settings → Actions → General → Workflow permissions
+# 5. Select "Read and write permissions" → Save
+# 6. Go to Actions → Generate Snake → Run workflow
+# ================================================
 
 name: Generate Snake
 
 on:
-  # Runs automatically every 12 hours
   schedule:
     - cron: "0 */12 * * *"
-  
-  # Allows manual trigger
   workflow_dispatch:
-  
-  # Runs on every push to main
   push:
     branches:
       - main
@@ -27,20 +25,19 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
     
     steps:
-      # Generate snake SVG from contribution graph
-      - name: Generate Snake
-        uses: Platane/snk/svg-only@v3
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
         with:
           github_user_name: Rishab-And-Abhisekh-joint
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
-      # Push generated files to output branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
