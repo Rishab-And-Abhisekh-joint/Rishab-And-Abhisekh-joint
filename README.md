@@ -304,11 +304,11 @@ const rishab = {
 <br><b>Max Rating: 1447</b>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/LeetCode-150+-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-350+-orange?style=for-the-badge&logo=leetcode"/>
 <br><b>Solutions</b>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Problems-250+-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problems-400+-green?style=for-the-badge"/>
 <br><b>Total Solved</b>
 </td>
 </tr>
