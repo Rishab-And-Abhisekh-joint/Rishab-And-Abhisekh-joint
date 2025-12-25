@@ -278,7 +278,7 @@ const rishab: Developer = {
 ## 🐍 Watch My Contributions Get Eaten
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="[https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/Rishab-And-Abhisekh-joint/Rishab-And-Abhisekh-joint/output/github-contribution-grid-snake-dark.svg)" alt="Snake animation"/>
 </p>
 
 ---
