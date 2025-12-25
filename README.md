@@ -212,10 +212,12 @@ const rishab = {
 <div align="center">
 
 ### 🏆 Supply Chain Platform: Agentic Approach
-  
+
 <a href="https://github.com/Rishab-And-Abhisekh-joint/Supply-Chain">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishab-And-Abhisekh-joint&repo=Supply-Chain&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Supply Chain"/>
+  <img src="https://img.shields.io/badge/📦_Supply_Chain_Platform-View_Repository-667eea?style=for-the-badge&logo=github" alt="Supply Chain"/>
 </a>
+
+> **Cloud-native logistics optimization platform for 200+ retail outlets**
 
 <table>
 <tr>
@@ -252,8 +254,10 @@ const rishab = {
 ### 🤖 RAG Chatbot with Document + Video Support
 
 <a href="https://github.com/Rishab-And-Abhisekh-joint/Search_Engine_LLM">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishab-And-Abhisekh-joint&repo=Search_Engine_LLM&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Search Engine LLM"/>
+  <img src="https://img.shields.io/badge/🤖_RAG_Chatbot-View_Repository-764ba2?style=for-the-badge&logo=github" alt="RAG Chatbot"/>
 </a>
+
+> **Intelligent chatbot with multi-format document & video processing**
 
 <table>
 <tr>
@@ -314,13 +318,14 @@ const rishab = {
 
 ## 📊 GitHub Analytics
 
+<!-- Using multiple alternative providers -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rishab-And-Abhisekh-joint&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rishab-And-Abhisekh-joint&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <img width="49%" src="https://streak-stats.demolab.com?user=Rishab-And-Abhisekh-joint&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=FF6B6B&currStreakLabel=667eea" alt="Streak Stats"/>
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishab-And-Abhisekh-joint&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=C9D1D9" alt="Top Languages"/>
+  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rishab-And-Abhisekh-joint&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=C9D1D9" alt="Top Languages"/>
 </p>
 
 ---
@@ -328,7 +333,7 @@ const rishab = {
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rishab-And-Abhisekh-joint&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=Rishab-And-Abhisekh-joint&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
 </p>
 
 ---
