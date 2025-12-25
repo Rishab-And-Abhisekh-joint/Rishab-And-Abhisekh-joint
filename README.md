@@ -321,7 +321,7 @@ const rishab = {
 <!-- Using multiple alternative providers -->
 <p align="center">
   <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rishab-And-Abhisekh-joint&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Rishab-And-Abhisekh-joint&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats-sigma-five.vercel.app/?user=Rishab-And-Abhisekh-joint&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
 </p>
 
 <p align="center">
