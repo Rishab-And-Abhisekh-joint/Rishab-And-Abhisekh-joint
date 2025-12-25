@@ -314,26 +314,13 @@ const rishab = {
 
 ## 📊 GitHub Analytics
 
-<!-- Using different stats provider for reliability -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rishab-And-Abhisekh-joint&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rishab-And-Abhisekh-joint&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-    <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rishab-And-Abhisekh-joint&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Rishab-And-Abhisekh-joint&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=FF6B6B&currStreakLabel=667eea"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Rishab-And-Abhisekh-joint&theme=default"/>
-    <img width="49%" src="https://streak-stats.demolab.com?user=Rishab-And-Abhisekh-joint&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=FF6B6B&currStreakLabel=667eea" alt="Streak Stats"/>
-  </picture>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rishab-And-Abhisekh-joint&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=Rishab-And-Abhisekh-joint&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=FF6B6B&currStreakLabel=667eea" alt="Streak Stats"/>
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rishab-And-Abhisekh-joint&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=C9D1D9"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rishab-And-Abhisekh-joint&layout=compact&theme=default"/>
-    <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rishab-And-Abhisekh-joint&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=C9D1D9" alt="Top Languages"/>
-  </picture>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishab-And-Abhisekh-joint&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=C9D1D9" alt="Top Languages"/>
 </p>
 
 ---
@@ -341,11 +328,7 @@ const rishab = {
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Rishab-And-Abhisekh-joint&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Rishab-And-Abhisekh-joint&theme=flat&no-frame=true&margin-w=4&row=1"/>
-    <img src="https://github-profile-trophy.vercel.app/?username=Rishab-And-Abhisekh-joint&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
-  </picture>
+  <img src="https://github-profile-trophy.vercel.app/?username=Rishab-And-Abhisekh-joint&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
 </p>
 
 ---
@@ -353,11 +336,7 @@ const rishab = {
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishab-And-Abhisekh-joint/Rishab-And-Abhisekh-joint/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishab-And-Abhisekh-joint/Rishab-And-Abhisekh-joint/output/github-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/Rishab-And-Abhisekh-joint/Rishab-And-Abhisekh-joint/output/github-snake-dark.svg"/>
-  </picture>
+  <img src="https://raw.githubusercontent.com/Rishab-And-Abhisekh-joint/Rishab-And-Abhisekh-joint/output/github-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ---
