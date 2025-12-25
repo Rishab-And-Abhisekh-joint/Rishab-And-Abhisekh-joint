@@ -34,7 +34,7 @@
   <a href="https://portfolio-inky-three-30.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://leetcode.com/u/Rishab_Acharjee" target="_blank">
+  <a href="https://leetcode.com/u/Rishab_Acharjee/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="https://codeforces.com/profile/rishab.acharjee12345" target="_blank">
@@ -49,7 +49,7 @@
 
 ## ⚡ About Me
 
-```typescript
+```javascript
 const rishab = {
   education: "B.Tech CSE @ NIT Durgapur (SGPA: 8.78)",
   graduation: "June 2026",
@@ -149,7 +149,6 @@ const rishab = {
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/RAG-00ADD8?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Vision%20Transformers-FF6F61?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/GANs-9B59B6?style=for-the-badge"/>
 </p>
 </details>
 
@@ -215,7 +214,7 @@ const rishab = {
 ### 🏆 Supply Chain Platform: Agentic Approach
   
 <a href="https://github.com/Rishab-And-Abhisekh-joint/Supply-Chain">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishab-And-Abhisekh-joint&repo=Supply-Chain&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishab-And-Abhisekh-joint&repo=Supply-Chain&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Supply Chain"/>
 </a>
 
 <table>
@@ -253,7 +252,7 @@ const rishab = {
 ### 🤖 RAG Chatbot with Document + Video Support
 
 <a href="https://github.com/Rishab-And-Abhisekh-joint/Search_Engine_LLM">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishab-And-Abhisekh-joint&repo=Search_Engine_LLM&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishab-And-Abhisekh-joint&repo=Search_Engine_LLM&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Search Engine LLM"/>
 </a>
 
 <table>
@@ -315,25 +314,26 @@ const rishab = {
 
 ## 📊 GitHub Analytics
 
+<!-- Using different stats provider for reliability -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rishab-And-Abhisekh-joint&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Rishab-And-Abhisekh-joint&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=FF6B6B&currStreakLabel=667eea" alt="Streak Stats"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rishab-And-Abhisekh-joint&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=C9D1D9&include_all_commits=true&count_private=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rishab-And-Abhisekh-joint&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+    <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rishab-And-Abhisekh-joint&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Rishab-And-Abhisekh-joint&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=FF6B6B&currStreakLabel=667eea"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Rishab-And-Abhisekh-joint&theme=default"/>
+    <img width="49%" src="https://streak-stats.demolab.com?user=Rishab-And-Abhisekh-joint&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=FF6B6B&currStreakLabel=667eea" alt="Streak Stats"/>
+  </picture>
 </p>
 
 <p align="center">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishab-And-Abhisekh-joint&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=C9D1D9" alt="Top Languages"/>
-</p>
-
----
-
-## 📈 Contribution Heatmap
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/667eea/Rishab-And-Abhisekh-joint" alt="GitHub Contributions Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishab-And-Abhisekh-joint&bg_color=0D1117&color=667eea&line=764ba2&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rishab-And-Abhisekh-joint&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=C9D1D9"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rishab-And-Abhisekh-joint&layout=compact&theme=default"/>
+    <img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rishab-And-Abhisekh-joint&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=C9D1D9" alt="Top Languages"/>
+  </picture>
 </p>
 
 ---
@@ -341,7 +341,31 @@ const rishab = {
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rishab-And-Abhisekh-joint&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Rishab-And-Abhisekh-joint&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Rishab-And-Abhisekh-joint&theme=flat&no-frame=true&margin-w=4&row=1"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Rishab-And-Abhisekh-joint&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
+  </picture>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rishab-And-Abhisekh-joint/Rishab-And-Abhisekh-joint/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rishab-And-Abhisekh-joint/Rishab-And-Abhisekh-joint/output/github-snake.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Rishab-And-Abhisekh-joint/Rishab-And-Abhisekh-joint/output/github-snake-dark.svg"/>
+  </picture>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishab-And-Abhisekh-joint&bg_color=0D1117&color=667eea&line=764ba2&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
 </p>
 
 ---
