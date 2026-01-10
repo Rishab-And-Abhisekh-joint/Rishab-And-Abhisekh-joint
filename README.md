@@ -64,8 +64,8 @@ const rishab = {
   achievements: {
     juspay: "Top 2% of 1,00,000+ participants",
     codeforces: "Specialist (Max Rating: 1447)",
-    problemsSolved: "250+ across platforms",
-    leetcode: "150+ solutions"
+    problemsSolved: "500+ across platforms",
+    leetcode: "400+ solutions"
   },
   
   currentFocus: "Building AI-powered enterprise systems",
