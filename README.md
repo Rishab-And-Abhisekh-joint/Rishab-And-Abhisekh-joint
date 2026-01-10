@@ -55,7 +55,7 @@ const rishab = {
   graduation: "June 2026",
   
   experience: [
-    "🚀 Incoming SDE Intern @ Zluri",
+    "🚀 SDE Intern @ Zluri",
     "📊 Data Engineer Intern @ Infinity Analytics",
     "🤖 AI Engineer Intern @ BOSCH (BGSW)",
     "🔬 Research Intern @ NIT Durgapur"
@@ -92,8 +92,8 @@ const rishab = {
 <br><b>Jan 2026</b>
 </td>
 <td>
-<b>SDE Intern (Incoming)</b> @ <b>Zluri</b> | Bangalore
-<br><i>Building next-gen SaaS management solutions</i>
+<b>SDE Intern </b> @ <b>Zluri</b> | Bangalore
+<br><i>Building next-gen SaaS management and Indentity Governence solutions</i>
 </td>
 </tr>
 <tr>
