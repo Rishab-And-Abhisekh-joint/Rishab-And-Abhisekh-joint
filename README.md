@@ -294,21 +294,21 @@ const rishab = {
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🏅_Juspay_Hiring_Challenge_2025-Top_2%25_of_1,00,000+-gold?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🏅_Microsoft_Imagine_Cup_2026-World_Semifinalist+-gold?style=for-the-badge"/>
 </p>
 
 <table align="center">
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/Codeforces-Specialist-blue?style=for-the-badge&logo=codeforces"/>
-<br><b>Max Rating: 1447</b>
+<img src="https://img.shields.io/badge/Codeforces-Expert-blue?style=for-the-badge&logo=codeforces"/>
+<br><b>Max Rating: 1886</b>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/LeetCode-400+-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-450+-orange?style=for-the-badge&logo=leetcode"/>
 <br><b>Solutions</b>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Problems-500+-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problems-550+-green?style=for-the-badge"/>
 <br><b>Total Solved</b>
 </td>
 </tr>
