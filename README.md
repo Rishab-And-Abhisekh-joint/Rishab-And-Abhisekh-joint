@@ -51,7 +51,7 @@
 
 ```javascript
 const rishab = {
-  education: "B.Tech CSE @ NIT Durgapur (SGPA: 8.78)",
+  education: "B.Tech CSE @ NIT Durgapur (CGPA: 7.59)",
   graduation: "June 2026",
   
   experience: [
