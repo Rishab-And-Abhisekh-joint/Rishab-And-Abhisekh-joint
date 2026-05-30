@@ -16,8 +16,8 @@
   <a href="https://github.com/Rishab-And-Abhisekh-joint?tab=followers">
     <img src="https://img.shields.io/github/followers/Rishab-And-Abhisekh-joint?label=Followers&style=for-the-badge&color=764ba2" alt="Followers"/>
   </a>
-  <img src="https://img.shields.io/badge/SGPA-8.78-success?style=for-the-badge" alt="SGPA"/>
-  <img src="https://img.shields.io/badge/Codeforces-Specialist%20(1447)-blue?style=for-the-badge&logo=codeforces" alt="Codeforces"/>
+  <img src="https://img.shields.io/badge/CGPA-7.59-success?style=for-the-badge" alt="CGPA"/>
+  <img src="https://img.shields.io/badge/Codeforces-Expert%20(1886)-blue?style=for-the-badge&logo=codeforces" alt="Codeforces"/>
 </p>
 
 <!-- Social Links -->
