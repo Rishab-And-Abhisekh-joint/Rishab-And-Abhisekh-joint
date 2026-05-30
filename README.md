@@ -55,7 +55,7 @@ const rishab = {
   graduation: "June 2026",
   
   experience: [
-    "🚀 SDE Intern @ Zluri",
+    "🚀 Software Developer @ Zluri",
     "📊 Data Engineer Intern @ Infinity Analytics",
     "🤖 AI Engineer Intern @ BOSCH (BGSW)",
     "🔬 Research Intern @ NIT Durgapur"
@@ -63,9 +63,9 @@ const rishab = {
   
   achievements: {
     juspay: "Top 2% of 1,00,000+ participants",
-    codeforces: "Specialist (Max Rating: 1447)",
+    codeforces: "Expert (Max Rating: 1883)",
     problemsSolved: "500+ across platforms",
-    leetcode: "400+ solutions"
+    leetcode: "450+ solutions"
   },
   
   currentFocus: "Building AI-powered enterprise systems",
@@ -92,7 +92,7 @@ const rishab = {
 <br><b>Jan 2026</b>
 </td>
 <td>
-<b>SDE Intern </b> @ <b>Zluri</b> | Bangalore
+<b>Software Developer </b> @ <b>Zluri</b> | Bangalore
 <br><i>Building next-gen SaaS management and Indentity Governence solutions</i>
 </td>
 </tr>
