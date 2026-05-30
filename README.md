@@ -62,7 +62,7 @@ const rishab = {
   ],
   
   achievements: {
-    juspay: "Top 2% of 1,00,000+ participants",
+    Microsoft Imagine Cup: World Semifinalist(Careorbit),
     codeforces: "Expert (Max Rating: 1883)",
     problemsSolved: "500+ across platforms",
     leetcode: "450+ solutions"
