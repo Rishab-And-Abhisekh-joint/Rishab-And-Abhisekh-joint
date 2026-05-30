@@ -6,7 +6,7 @@
 <!-- Animated Typing -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3100&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=850&height=125&lines=%F0%9F%9A%80+Software+Developer+%40+Zluri;%F0%9F%A4%96+Data+Engineer+%7C+Ex-BOSCH+%7C+Ex-Infinity+Analytics;%F0%9F%8F%86+Microsoft+Imagine+Cup+Semifinalist+2026;%7C+Codeforces+Expert+%7C+450%2B+Problems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3100&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=850&height=125&lines=%F0%9F%9A%80+Software+Developer+%40+Zluri;%F0%9F%A4%96+Data+Engineer+%7C+Ex-BOSCH+%7C+Ex-Infinity+Analytics;%F0%9F%8F%86+Microsoft+Imagine+Cup+Semifinalist+2026;%7C+Codeforces+Expert+%7C+550%2B+Problems" alt="Typing SVG" />
   </a>
 </p>
 
@@ -367,8 +367,8 @@ const rishab = {
 ```yaml
 🔭 Building:     Enterprise AI systems & Data Pipelines
 🌱 Learning:     System Design, Distributed Systems, MLOps
-💼 Preparing:    For SDE role @ Zluri (Jan 2026)
-🎯 Goals 2025:   Contribute to major open source AI projects
+💼 Preparing:    For M.Tech in Cyber Physcial Systems IIT Kharagpur(2026)
+🎯 Goals 2026:   Contribute to major open source projects
 🤝 Open to:      Collaborations on AI/ML & Full-Stack projects
 ```
 
